@@ -1,4 +1,10 @@
-### Hi there 👋
+# Welcome to my Github page! 👋
+<img src="https://user-images.githubusercontent.com/37982680/209422838-69aa840b-de4f-4165-9c75-684f673a7cf5.png" width="20" height="20"> Software Engineer • 
+<img src="https://user-images.githubusercontent.com/37982680/209422576-20486d6f-8141-41e6-bd66-770848c9bc88.png" alt="1625041348494" width="20" height="20"> Thoughworker
+
+## Contact me! 
+<a href="mailto:hello@seanaxn.com"><img src="https://user-images.githubusercontent.com/37982680/209423156-3fb43be1-88f2-4576-806a-4b607150edde.png" width="20" height="20"> Email</a> • 
+<a href=""><img src="https://user-images.githubusercontent.com/37982680/209423051-0284df70-01b2-432d-9414-5cfeda685a72.png" alt="1625041348494" width="20" height="20"> LinkedIn</a>
 
 <!--
 **seanaxn1135/seanaxn1135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
