@@ -1,6 +1,5 @@
 # Welcome to my Github page! 👋
-<img src="https://user-images.githubusercontent.com/37982680/209422838-69aa840b-de4f-4165-9c75-684f673a7cf5.png" width="20" height="20"> Software Engineer • 
-<img src="https://user-images.githubusercontent.com/37982680/209422576-20486d6f-8141-41e6-bd66-770848c9bc88.png" alt="1625041348494" width="20" height="20"> Thoughtworker
+<img src="https://user-images.githubusercontent.com/37982680/209422838-69aa840b-de4f-4165-9c75-684f673a7cf5.png" width="20" height="20"> Software Engineer
 
 ## Contact me! 
 <a href="mailto:hello@seanaxn.com"><img src="https://user-images.githubusercontent.com/37982680/209423156-3fb43be1-88f2-4576-806a-4b607150edde.png" width="20" height="20"> Email</a> • 
